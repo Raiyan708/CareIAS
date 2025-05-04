@@ -426,7 +426,7 @@ export default function Home() {
                   <div>
                     <h3 className="text-xl font-bold">Arun Kumar Pandey</h3>
                     <p className="text-sm text-muted-foreground">Director, Care IAS</p>
-                    <p className="text-sm text-muted-foreground">Ex-Head Arwal IAS Academy</p>
+                    <p className="text-sm text-muted-foreground">Ex-Head Ajmal IAS Academy</p>
                     <p className="mt-2 text-muted-foreground">Faculty: Indian Economy</p>
                   </div>
                 </CardContent>
@@ -445,7 +445,7 @@ export default function Home() {
                   <div>
                     <h3 className="text-xl font-bold">Mazir Abbasi</h3>
                     <p className="text-sm text-muted-foreground">Academic Head, Care IAS</p>
-                    <p className="text-sm text-muted-foreground">Ex-Arwal IAS, Ex-Jamia RCA Resident</p>
+                    <p className="text-sm text-muted-foreground">Ex-Ajmal IAS, Ex-Jamia RCA Resident</p>
                     <p className="mt-2 text-muted-foreground">Faculty: Environment & Ecology, GS-4</p>
                   </div>
                 </CardContent>
