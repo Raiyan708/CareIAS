@@ -150,7 +150,7 @@ export default function Home() {
             </div>
             <div className="mx-auto grid max-w-5xl items-center gap-6 py-12 lg:grid-cols-2 lg:gap-12">
               <Image
-                src="/placeholder.svg?height=400&width=600"
+                src="/About.jpg"
                 width={600}
                 height={400}
                 alt="Care IAS Campus"
