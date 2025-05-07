@@ -435,7 +435,7 @@ export default function Home() {
                 <CardContent className="p-6 flex flex-col items-center text-center space-y-4">
                   <div className="relative h-40 w-40 overflow-hidden rounded-full border-4 border-background shadow-lg">
                     <Image
-                      src="/placeholder.svg?height=160&width=160&text=Mazir+Abbasi"
+                      src="/Mazir%20Abbasi.png"
                       width={160}
                       height={160}
                       alt="Mazir Abbasi"
