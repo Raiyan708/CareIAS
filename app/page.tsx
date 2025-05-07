@@ -80,7 +80,7 @@ export default function Home() {
               <div className="flex flex-col justify-center space-y-4">
                 <div className="space-y-2">
                   <h1 className="text-3xl font-bold tracking-tighter sm:text-5xl xl:text-6xl/none">
-                    Delhi-Level IAS Coaching in Aligarh
+                    Premier IAS Coaching in Aligarh, Led by Expert Delhi Faculty
                   </h1>
                   <p className="text-lg italic">Where private coaching meets personalized tuition</p>
                   <p className="max-w-[600px] text-muted-foreground md:text-xl">
