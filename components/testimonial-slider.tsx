@@ -10,26 +10,26 @@ import { Button } from "@/components/ui/button"
 const testimonials = [
   {
     id: 1,
-    name: "Priya Sharma",
-    role: "UPSC CSE 2022",
+    name: "Fatima Ali",
+    role: "UPSC CSE 2025 Aspirant",
     content:
-      "Care IAS provided me with the perfect environment to prepare for UPSC. The faculty from Delhi brought exceptional expertise and guidance that was crucial for my success.",
+      "Care IAS has not only laid a solid foundation for my UPSC journey but has also ignited a deeper intellectual curiosity. The faculty’s strategic guidance, drawing from their Delhi-level expertise, empowers me to approach my preparation with a clear and focused mindset.",
     avatar: "/placeholder.svg?height=80&width=80&text=PS",
   },
   {
     id: 2,
-    name: "Rahul Verma",
-    role: "UPSC CSE 2021",
+    name: "Ahmed Khan",
+    role: "UPSC CSE 2025 Aspirant",
     content:
-      "The personalized mentorship and regular test series at Care IAS helped me identify my strengths and weaknesses. Their structured approach made all the difference in my preparation.",
+      "Care IAS has provided me with a strong starting point for my UPSC preparation. The faculty’s guidance, rooted in their Delhi-level expertise, is already helping me build a solid foundation for the journey ahead.",
     avatar: "/placeholder.svg?height=80&width=80&text=RV",
   },
   {
     id: 3,
     name: "Ananya Gupta",
-    role: "UPSC CSE 2022",
+    role: "UPSC CSE 2025 Aspirant",
     content:
-      "Being able to access Delhi-level coaching right here in Aligarh was a game-changer for me. The hostel facility created the perfect environment for focused study.",
+      "I’m grateful for the structured approach at Care IAS. With the faculty’s extensive knowledge and personalized attention, I am confident that this coaching will be the key to my success in UPSC.",
     avatar: "/placeholder.svg?height=80&width=80&text=AG",
   },
 ]
