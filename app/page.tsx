@@ -416,7 +416,7 @@ export default function Home() {
                 <CardContent className="p-6 flex flex-col items-center text-center space-y-4">
                   <div className="relative h-40 w-40 overflow-hidden rounded-full border-4 border-background shadow-lg">
                     <Image
-                      src="/Arun%20Kumar@20Pandey.png"
+                      src="/Arun%20Kumar%20Pandey.png"
                       width={160}
                       height={160}
                       alt="Arun Kumar Pandey"
