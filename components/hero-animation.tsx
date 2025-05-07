@@ -44,7 +44,7 @@ export default function HeroAnimation() {
           style={{ transitionDelay: "0ms" }}
         />
       </div>
-      <div className="absolute top-[-20px] right-[-20px] w-[150px] h-[150px]">
+      {/* <div className="absolute top-[-20px] right-[-20px] w-[150px] h-[150px]">
         <Image
           src="/placeholder.svg?height=150&width=150&text=Delhi+Experts"
           width={150}
@@ -63,7 +63,7 @@ export default function HeroAnimation() {
           className="rounded-full border-4 border-background shadow-lg transition-all duration-500 ease-in-out opacity-0 transform translate-y-5"
           style={{ transitionDelay: "400ms" }}
         />
-      </div>
+      </div> */}
     </div>
   )
 }
