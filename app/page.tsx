@@ -416,7 +416,7 @@ export default function Home() {
                 <CardContent className="p-6 flex flex-col items-center text-center space-y-4">
                   <div className="relative h-40 w-40 overflow-hidden rounded-full border-4 border-background shadow-lg">
                     <Image
-                      src="/placeholder.svg?height=160&width=160&text=Arun+Kumar+Pandey"
+                      src="/Arun%20Kumar@20Pandey.png"
                       width={160}
                       height={160}
                       alt="Arun Kumar Pandey"
@@ -454,7 +454,7 @@ export default function Home() {
                 <CardContent className="p-6 flex flex-col items-center text-center space-y-4">
                   <div className="relative h-40 w-40 overflow-hidden rounded-full border-4 border-background shadow-lg">
                     <Image
-                      src="/placeholder.svg?height=160&width=160&text=Dr.+Mukarram+B.+Khan"
+                      src="/Dr.%20Mukarram%20B.%20Khan.png"
                       width={160}
                       height={160}
                       alt="Dr. Mukarram B. Khan"
@@ -473,7 +473,7 @@ export default function Home() {
                 <CardContent className="p-6 flex flex-col items-center text-center space-y-4">
                   <div className="relative h-40 w-40 overflow-hidden rounded-full border-4 border-background shadow-lg">
                     <Image
-                      src="/placeholder.svg?height=160&width=160&text=Ashwini+Chaudhary"
+                      src="/Ashwini%20Chaudhary.png"
                       width={160}
                       height={160}
                       alt="Ashwini Chaudhary"
@@ -491,7 +491,7 @@ export default function Home() {
                 <CardContent className="p-6 flex flex-col items-center text-center space-y-4">
                   <div className="relative h-40 w-40 overflow-hidden rounded-full border-4 border-background shadow-lg">
                     <Image
-                      src="/placeholder.svg?height=160&width=160&text=Appu+Tiwari"
+                      src="/Appu%20Tiwari.png"
                       width={160}
                       height={160}
                       alt="Appu Tiwari"
@@ -509,7 +509,7 @@ export default function Home() {
                 <CardContent className="p-6 flex flex-col items-center text-center space-y-4">
                   <div className="relative h-40 w-40 overflow-hidden rounded-full border-4 border-background shadow-lg">
                     <Image
-                      src="/placeholder.svg?height=160&width=160&text=Dr.+Imam-ul-Haq"
+                      src="/Dr.%20Imam-ul-Haq.png"
                       width={160}
                       height={160}
                       alt="Dr. Imam-ul-Haq"
@@ -528,7 +528,7 @@ export default function Home() {
                 <CardContent className="p-6 flex flex-col items-center text-center space-y-4">
                   <div className="relative h-40 w-40 overflow-hidden rounded-full border-4 border-background shadow-lg">
                     <Image
-                      src="/placeholder.svg?height=160&width=160&text=Dr.+Muzahir+Quazi"
+                      src="/Dr.%20Muzahir%20Quazi.png"
                       width={160}
                       height={160}
                       alt="Dr. Muzahir Quazi"
@@ -546,7 +546,7 @@ export default function Home() {
                 <CardContent className="p-6 flex flex-col items-center text-center space-y-4">
                   <div className="relative h-40 w-40 overflow-hidden rounded-full border-4 border-background shadow-lg">
                     <Image
-                      src="/placeholder.svg?height=160&width=160&text=Jitendra+Patnaik"
+                      src="/Jitendra%20Patnaik.png"
                       width={160}
                       height={160}
                       alt="Jitendra Patnaik"
@@ -564,7 +564,7 @@ export default function Home() {
                 <CardContent className="p-6 flex flex-col items-center text-center space-y-4">
                   <div className="relative h-40 w-40 overflow-hidden rounded-full border-4 border-background shadow-lg">
                     <Image
-                      src="/placeholder.svg?height=160&width=160&text=Faiz+Ansari"
+                      src="/Faiz%20Ansari.png"
                       width={160}
                       height={160}
                       alt="Faiz Ansari"
