@@ -463,7 +463,7 @@ export default function Home() {
                   </div>
                   <div>
                     <h3 className="text-xl font-bold">Dr. Mukarram B. Khan</h3>
-                    <p className="text-sm text-muted-foreground">Retd IAS, Ex-Jamia</p>
+                    <p className="text-sm text-muted-foreground">Bano IAS, Ex-Jamia</p>
                     <p className="text-sm text-muted-foreground">RCA Resident</p>
                     <p className="mt-2 text-muted-foreground">Faculty: Indian Polity</p>
                   </div>
@@ -482,7 +482,7 @@ export default function Home() {
                   </div>
                   <div>
                     <h3 className="text-xl font-bold">Ashwini Chaudhary</h3>
-                    <p className="text-sm text-muted-foreground">IRS</p>
+                    <p className="text-sm text-muted-foreground">IIT-K</p>
                     <p className="mt-2 text-muted-foreground">Faculty: CSAT</p>
                   </div>
                 </CardContent>
@@ -500,7 +500,7 @@ export default function Home() {
                   </div>
                   <div>
                     <h3 className="text-xl font-bold">Appu Tiwari</h3>
-                    <p className="text-sm text-muted-foreground">Samvid IAS, Patli Academy</p>
+                    <p className="text-sm text-muted-foreground">Sunya IAS, Path Academy</p>
                     <p className="mt-2 text-muted-foreground">Faculty: Science & Technology</p>
                   </div>
                 </CardContent>
@@ -518,8 +518,8 @@ export default function Home() {
                   </div>
                   <div>
                     <h3 className="text-xl font-bold">Dr. Imam-ul-Haq</h3>
-                    <p className="text-sm text-muted-foreground">Retd IAS, Ex-Jamia</p>
-                    <p className="text-sm text-muted-foreground">RCA Resident</p>
+                    <p className="text-sm text-muted-foreground">Bano IAS</p>
+                    <p className="text-sm text-muted-foreground">Ex-Jamia RCA Resident</p>
                     <p className="mt-2 text-muted-foreground">Faculty: History</p>
                   </div>
                 </CardContent>
@@ -555,7 +555,7 @@ export default function Home() {
                   </div>
                   <div>
                     <h3 className="text-xl font-bold">Jitendra Patnaik</h3>
-                    <p className="text-sm text-muted-foreground">Ex-Bhubaneswar IAS</p>
+                    <p className="text-sm text-muted-foreground">Ex-Kalhana, IAS</p>
                     <p className="mt-2 text-muted-foreground">Faculty: Governance & Indian Society</p>
                   </div>
                 </CardContent>
