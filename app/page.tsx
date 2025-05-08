@@ -725,11 +725,11 @@ export default function Home() {
                             className="flex h-10 w-full rounded-md border border-input bg-background px-3 py-2 text-sm ring-offset-background file:border-0 file:bg-transparent file:text-sm file:font-medium placeholder:text-muted-foreground focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:cursor-not-allowed disabled:opacity-50"
                           >
                             <option value="">Select a program</option>
-                            <option value="upsc">UPSC Preparation</option>
-                            <option value="uppsc">UPPSC Preparation</option>
-                            <option value="bpsc">BPSC Preparation</option>
-                            <option value="apsc">APSC Preparation</option>
-                            <option value="complete">Complete Package</option>
+                            <option value="upsc">Droppers</option>
+                            <option value="uppsc">Students in College</option>
+                            <option value="bpsc">XI/XII Students</option>
+                            {/* <option value="apsc">APSC Preparation</option>
+                            <option value="complete">Complete Package</option> */}
                           </select>
                         </div>
                         <Button className="w-full transition-all duration-300 hover:scale-105">Submit Inquiry</Button>
