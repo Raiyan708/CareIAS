@@ -580,6 +580,185 @@ export default function Home() {
               </Card>
             </div>
           </div>
+          <div className="container px-4 md:px-6">
+            <div className="flex flex-col items-center justify-center space-y-4 text-center">
+              <div className="space-y-2">
+                <div className="inline-block rounded-lg bg-background px-3 py-1 text-sm">Expert Hindi Faculty</div>
+                <h2 className="text-3xl font-bold tracking-tighter sm:text-5xl">Our Hindi Faculty Team</h2>
+                <p className="max-w-[900px] text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
+                  Our team consists of experienced educators with proven track records in civil services coaching.
+                </p>
+              </div>
+            </div>
+            <div className="grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3 lg:gap-12 mt-8">
+              <Card className="transition-all duration-300 hover:shadow-lg hover:-translate-y-1">
+                <CardContent className="p-6 flex flex-col items-center text-center space-y-4">
+                  <div className="relative h-40 w-40 overflow-hidden rounded-full border-4 border-background shadow-lg">
+                    <Image
+                      src="/Arun%20Kumar%20Pandey.png"
+                      width={160}
+                      height={160}
+                      alt="Arun Kumar Pandey"
+                      className="object-cover transition-transform duration-500 hover:scale-110"
+                    />
+                  </div>
+                  <div>
+                    <h3 className="text-xl font-bold">Arun Kumar Pandey</h3>
+                    <p className="text-sm text-muted-foreground">Director, Care IAS</p>
+                    <p className="text-sm text-muted-foreground">Ex-Head Ajmal IAS Academy</p>
+                    <p className="mt-2 text-muted-foreground">Faculty: Indian Economy</p>
+                  </div>
+                </CardContent>
+              </Card>
+              <Card className="transition-all duration-300 hover:shadow-lg hover:-translate-y-1">
+                <CardContent className="p-6 flex flex-col items-center text-center space-y-4">
+                  <div className="relative h-40 w-40 overflow-hidden rounded-full border-4 border-background shadow-lg">
+                    <Image
+                      src="/Mazir%20Abbasi.png"
+                      width={160}
+                      height={160}
+                      alt="Mazir Abbasi"
+                      className="object-cover transition-transform duration-500 hover:scale-110"
+                    />
+                  </div>
+                  <div>
+                    <h3 className="text-xl font-bold">Mazir Abbasi</h3>
+                    <p className="text-sm text-muted-foreground">Academic Head, Care IAS</p>
+                    <p className="text-sm text-muted-foreground">Ex-Ajmal IAS, Ex-Jamia RCA Resident</p>
+                    <p className="mt-2 text-muted-foreground">Faculty: Environment & Ecology, GS-4</p>
+                  </div>
+                </CardContent>
+              </Card>
+              <Card className="transition-all duration-300 hover:shadow-lg hover:-translate-y-1">
+                <CardContent className="p-6 flex flex-col items-center text-center space-y-4">
+                  <div className="relative h-40 w-40 overflow-hidden rounded-full border-4 border-background shadow-lg">
+                    <Image
+                      src="/Dr.%20Mukarram%20B.%20Khan.png"
+                      width={160}
+                      height={160}
+                      alt="Dr. Mukarram B. Khan"
+                      className="object-cover transition-transform duration-500 hover:scale-110"
+                    />
+                  </div>
+                  <div>
+                    <h3 className="text-xl font-bold">Dr. Mukarram B. Khan</h3>
+                    <p className="text-sm text-muted-foreground">Bano IAS, Ex-Jamia</p>
+                    <p className="text-sm text-muted-foreground">RCA Resident</p>
+                    <p className="mt-2 text-muted-foreground">Faculty: Indian Polity</p>
+                  </div>
+                </CardContent>
+              </Card>
+              <Card className="transition-all duration-300 hover:shadow-lg hover:-translate-y-1">
+                <CardContent className="p-6 flex flex-col items-center text-center space-y-4">
+                  <div className="relative h-40 w-40 overflow-hidden rounded-full border-4 border-background shadow-lg">
+                    <Image
+                      src="/Ashwini%20Chaudhary.png"
+                      width={160}
+                      height={160}
+                      alt="Ashwini Chaudhary"
+                      className="object-cover transition-transform duration-500 hover:scale-110"
+                    />
+                  </div>
+                  <div>
+                    <h3 className="text-xl font-bold">Ashwini Chaudhary</h3>
+                    <p className="text-sm text-muted-foreground">IIT-K</p>
+                    <p className="mt-2 text-muted-foreground">Faculty: CSAT</p>
+                  </div>
+                </CardContent>
+              </Card>
+              <Card className="transition-all duration-300 hover:shadow-lg hover:-translate-y-1">
+                <CardContent className="p-6 flex flex-col items-center text-center space-y-4">
+                  <div className="relative h-40 w-40 overflow-hidden rounded-full border-4 border-background shadow-lg">
+                    <Image
+                      src="/Appu%20Tiwari.png"
+                      width={160}
+                      height={160}
+                      alt="Appu Tiwari"
+                      className="object-cover transition-transform duration-500 hover:scale-110"
+                    />
+                  </div>
+                  <div>
+                    <h3 className="text-xl font-bold">Appu Tiwari</h3>
+                    <p className="text-sm text-muted-foreground">Sunya IAS, Path Academy</p>
+                    <p className="mt-2 text-muted-foreground">Faculty: Science & Technology</p>
+                  </div>
+                </CardContent>
+              </Card>
+              <Card className="transition-all duration-300 hover:shadow-lg hover:-translate-y-1">
+                <CardContent className="p-6 flex flex-col items-center text-center space-y-4">
+                  <div className="relative h-40 w-40 overflow-hidden rounded-full border-4 border-background shadow-lg">
+                    <Image
+                      src="/Dr.%20Imam-ul-Haq.png"
+                      width={160}
+                      height={160}
+                      alt="Dr. Imam-ul-Haq"
+                      className="object-cover transition-transform duration-500 hover:scale-110"
+                    />
+                  </div>
+                  <div>
+                    <h3 className="text-xl font-bold">Dr. Imam-ul-Haq</h3>
+                    <p className="text-sm text-muted-foreground">Bano IAS</p>
+                    <p className="text-sm text-muted-foreground">Ex-Jamia RCA Resident</p>
+                    <p className="mt-2 text-muted-foreground">Faculty: History</p>
+                  </div>
+                </CardContent>
+              </Card>
+              <Card className="transition-all duration-300 hover:shadow-lg hover:-translate-y-1">
+                <CardContent className="p-6 flex flex-col items-center text-center space-y-4">
+                  <div className="relative h-40 w-40 overflow-hidden rounded-full border-4 border-background shadow-lg">
+                    <Image
+                      src="/Dr.%20Muzahir%20Quazi.png"
+                      width={160}
+                      height={160}
+                      alt="Dr. Muzahir Quazi"
+                      className="object-cover transition-transform duration-500 hover:scale-110"
+                    />
+                  </div>
+                  <div>
+                    <h3 className="text-xl font-bold">Dr. Muzahir Quazi</h3>
+                    <p className="text-sm text-muted-foreground">Ex-Jamia RCA Resident</p>
+                    <p className="mt-2 text-muted-foreground">Faculty: Geography & Disaster Management</p>
+                  </div>
+                </CardContent>
+              </Card>
+              <Card className="transition-all duration-300 hover:shadow-lg hover:-translate-y-1">
+                <CardContent className="p-6 flex flex-col items-center text-center space-y-4">
+                  <div className="relative h-40 w-40 overflow-hidden rounded-full border-4 border-background shadow-lg">
+                    <Image
+                      src="/Jitendra%20Patnaik.png"
+                      width={160}
+                      height={160}
+                      alt="Jitendra Patnaik"
+                      className="object-cover transition-transform duration-500 hover:scale-110"
+                    />
+                  </div>
+                  <div>
+                    <h3 className="text-xl font-bold">Jitendra Patnaik</h3>
+                    <p className="text-sm text-muted-foreground">Ex-Kalhana, IAS</p>
+                    <p className="mt-2 text-muted-foreground">Faculty: Governance & Indian Society</p>
+                  </div>
+                </CardContent>
+              </Card>
+              <Card className="transition-all duration-300 hover:shadow-lg hover:-translate-y-1">
+                <CardContent className="p-6 flex flex-col items-center text-center space-y-4">
+                  <div className="relative h-40 w-40 overflow-hidden rounded-full border-4 border-background shadow-lg">
+                    <Image
+                      src="/Faiz%20Ansari.png"
+                      width={160}
+                      height={160}
+                      alt="Faiz Ansari"
+                      className="object-cover transition-transform duration-500 hover:scale-110"
+                    />
+                  </div>
+                  <div>
+                    <h3 className="text-xl font-bold">Faiz Ansari</h3>
+                    <p className="text-sm text-muted-foreground">Ex-PW Only IAS, Ex-Jamia RCA Resident</p>
+                    <p className="mt-2 text-muted-foreground">Faculty: International Relations & Internal Security</p>
+                  </div>
+                </CardContent>
+              </Card>
+            </div>
+          </div>
         </section>
 
         <section id="testimonials" className="w-full py-12 md:py-24 lg:py-32 bg-background">
