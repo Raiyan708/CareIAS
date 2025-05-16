@@ -580,7 +580,7 @@ export default function Home() {
               </Card>
             </div>
           </div>
-          <div className="container px-4 md:px-6">
+          <div className="container px-4 md:px-6 mt-16">
             <div className="flex flex-col items-center justify-center space-y-4 text-center">
               <div className="space-y-2">
                 <div className="inline-block rounded-lg bg-background px-3 py-1 text-sm">Expert Hindi Faculty</div>
@@ -633,10 +633,10 @@ export default function Home() {
                 <CardContent className="p-6 flex flex-col items-center text-center space-y-4">
                   <div className="relative h-40 w-40 overflow-hidden rounded-full border-4 border-background shadow-lg">
                     <Image
-                      src="/Arun%20Kumar%20Pandey.png"
+                      src="/udaybhan.png"
                       width={160}
                       height={160}
-                      alt="Arun Kumar Pandey"
+                      alt="Dr Udaybhan Singh"
                       className="object-cover transition-transform duration-500 hover:scale-110"
                     />
                   </div>
@@ -652,10 +652,28 @@ export default function Home() {
                 <CardContent className="p-6 flex flex-col items-center text-center space-y-4">
                   <div className="relative h-40 w-40 overflow-hidden rounded-full border-4 border-background shadow-lg">
                     <Image
-                      src="/Dr.%20Mukarram%20B.%20Khan.png"
+                      src="/ASHWINI.png"
                       width={160}
                       height={160}
-                      alt="Dr. Mukarram B. Khan"
+                      alt="Ashwini Chaudhary"
+                      className="object-cover transition-transform duration-500 hover:scale-110"
+                    />
+                  </div>
+                  <div>
+                    <h3 className="text-xl font-bold">Ashwini Chaudhary</h3>
+                    <p className="text-sm text-muted-foreground">IIT-K</p>
+                    <p className="mt-2 text-muted-foreground">Faculty: CSAT</p>
+                  </div>
+                </CardContent>
+              </Card>
+              <Card className="transition-all duration-300 hover:shadow-lg hover:-translate-y-1">
+                <CardContent className="p-6 flex flex-col items-center text-center space-y-4">
+                  <div className="relative h-40 w-40 overflow-hidden rounded-full border-4 border-background shadow-lg">
+                    <Image
+                      src="/vineet.png"
+                      width={160}
+                      height={160}
+                      alt="Vinnet Pushpak"
                       className="object-cover transition-transform duration-500 hover:scale-110"
                     />
                   </div>
@@ -671,10 +689,10 @@ export default function Home() {
                 <CardContent className="p-6 flex flex-col items-center text-center space-y-4">
                   <div className="relative h-40 w-40 overflow-hidden rounded-full border-4 border-background shadow-lg">
                     <Image
-                      src="/Ashwini%20Chaudhary.png"
+                      src="/parvez.png"
                       width={160}
                       height={160}
-                      alt="Ashwini Chaudhary"
+                      alt="Md. Parvez"
                       className="object-cover transition-transform duration-500 hover:scale-110"
                     />
                   </div>
@@ -689,10 +707,10 @@ export default function Home() {
                 <CardContent className="p-6 flex flex-col items-center text-center space-y-4">
                   <div className="relative h-40 w-40 overflow-hidden rounded-full border-4 border-background shadow-lg">
                     <Image
-                      src="/Appu%20Tiwari.png"
+                      src="/madanmishara.png"
                       width={160}
                       height={160}
-                      alt="Appu Tiwari"
+                      alt="Madan Mishra"
                       className="object-cover transition-transform duration-500 hover:scale-110"
                     />
                   </div>
@@ -707,10 +725,10 @@ export default function Home() {
                 <CardContent className="p-6 flex flex-col items-center text-center space-y-4">
                   <div className="relative h-40 w-40 overflow-hidden rounded-full border-4 border-background shadow-lg">
                     <Image
-                      src="/Dr.%20Imam-ul-Haq.png"
+                      src="/naeem.png"
                       width={160}
                       height={160}
-                      alt="Dr. Imam-ul-Haq"
+                      alt="Naeem Ahmad"
                       className="object-cover transition-transform duration-500 hover:scale-110"
                     />
                   </div>
@@ -726,10 +744,10 @@ export default function Home() {
                 <CardContent className="p-6 flex flex-col items-center text-center space-y-4">
                   <div className="relative h-40 w-40 overflow-hidden rounded-full border-4 border-background shadow-lg">
                     <Image
-                      src="/Dr.%20Muzahir%20Quazi.png"
+                      src="/govind.png"
                       width={160}
                       height={160}
-                      alt="Dr. Muzahir Quazi"
+                      alt="Govind Dass"
                       className="object-cover transition-transform duration-500 hover:scale-110"
                     />
                   </div>
