@@ -603,10 +603,10 @@ export default function Home() {
                     />
                   </div>
                   <div>
-                    <h3 className="text-xl font-bold">Arun Kumar Pandey</h3>
+                    <h3 className="text-xl font-bold">Arun Kumar Pandy</h3>
                     <p className="text-sm text-muted-foreground">Director, Care IAS</p>
                     <p className="text-sm text-muted-foreground">Ex-Head Ajmal IAS Academy</p>
-                    <p className="mt-2 text-muted-foreground">Faculty: Indian Economy</p>
+                    {/* <p className="mt-2 text-muted-foreground">Faculty: Indian Economy & IR</p> */}
                   </div>
                 </CardContent>
               </Card>
@@ -625,7 +625,26 @@ export default function Home() {
                     <h3 className="text-xl font-bold">Mazir Abbasi</h3>
                     <p className="text-sm text-muted-foreground">Academic Head, Care IAS</p>
                     <p className="text-sm text-muted-foreground">Ex-Ajmal IAS, Ex-Jamia RCA Resident</p>
-                    <p className="mt-2 text-muted-foreground">Faculty: Environment & Ecology, GS-4</p>
+                    {/* <p className="mt-2 text-muted-foreground">Faculty: Environment & Ecology, GS-4</p> */}
+                  </div>
+                </CardContent>
+              </Card>
+              <Card className="transition-all duration-300 hover:shadow-lg hover:-translate-y-1">
+                <CardContent className="p-6 flex flex-col items-center text-center space-y-4">
+                  <div className="relative h-40 w-40 overflow-hidden rounded-full border-4 border-background shadow-lg">
+                    <Image
+                      src="/Arun%20Kumar%20Pandey.png"
+                      width={160}
+                      height={160}
+                      alt="Arun Kumar Pandey"
+                      className="object-cover transition-transform duration-500 hover:scale-110"
+                    />
+                  </div>
+                  <div>
+                    <h3 className="text-xl font-bold">Dr Udaybhan Singh</h3>
+                    <p className="text-sm text-muted-foreground">Author of Multiple UPSC books</p>
+                    <p className="text-sm text-muted-foreground">Vision IAS</p>
+                    <p className="mt-2 text-muted-foreground">Faculty: Indian Economy & IR</p>
                   </div>
                 </CardContent>
               </Card>
@@ -641,10 +660,10 @@ export default function Home() {
                     />
                   </div>
                   <div>
-                    <h3 className="text-xl font-bold">Dr. Mukarram B. Khan</h3>
-                    <p className="text-sm text-muted-foreground">Bano IAS, Ex-Jamia</p>
-                    <p className="text-sm text-muted-foreground">RCA Resident</p>
-                    <p className="mt-2 text-muted-foreground">Faculty: Indian Polity</p>
+                    <h3 className="text-xl font-bold">Vinnet Pushpak</h3>
+                    <p className="text-sm text-muted-foreground">Sanchetna IAS</p>
+                    {/* <p className="text-sm text-muted-foreground">RCA Resident</p> */}
+                    <p className="mt-2 text-muted-foreground">Faculty: History</p>
                   </div>
                 </CardContent>
               </Card>
@@ -660,9 +679,9 @@ export default function Home() {
                     />
                   </div>
                   <div>
-                    <h3 className="text-xl font-bold">Ashwini Chaudhary</h3>
-                    <p className="text-sm text-muted-foreground">IIT-K</p>
-                    <p className="mt-2 text-muted-foreground">Faculty: CSAT</p>
+                    <h3 className="text-xl font-bold">Md. Parvez</h3>
+                    <p className="text-sm text-muted-foreground">Khan Study Group, GS MENTORS</p>
+                    <p className="mt-2 text-muted-foreground">Faculty: Indian Polity, Governance & Social Issues</p>
                   </div>
                 </CardContent>
               </Card>
@@ -678,9 +697,9 @@ export default function Home() {
                     />
                   </div>
                   <div>
-                    <h3 className="text-xl font-bold">Appu Tiwari</h3>
-                    <p className="text-sm text-muted-foreground">Sunya IAS, Path Academy</p>
-                    <p className="mt-2 text-muted-foreground">Faculty: Science & Technology</p>
+                    <h3 className="text-xl font-bold">Madan Mishra</h3>
+                    <p className="text-sm text-muted-foreground">Vajirao IAS</p>
+                    <p className="mt-2 text-muted-foreground">Faculty: Geography, Ecology, Environment & Disaster Management</p>
                   </div>
                 </CardContent>
               </Card>
@@ -696,10 +715,10 @@ export default function Home() {
                     />
                   </div>
                   <div>
-                    <h3 className="text-xl font-bold">Dr. Imam-ul-Haq</h3>
-                    <p className="text-sm text-muted-foreground">Bano IAS</p>
-                    <p className="text-sm text-muted-foreground">Ex-Jamia RCA Resident</p>
-                    <p className="mt-2 text-muted-foreground">Faculty: History</p>
+                    <h3 className="text-xl font-bold">Naeem Ahmad</h3>
+                    <p className="text-sm text-muted-foreground">Ex-Asst Commandent, ITBP</p>
+                    {/* <p className="text-sm text-muted-foreground">Ex-Jamia RCA Resident</p> */}
+                    <p className="mt-2 text-muted-foreground">Faculty: Essay & Ethics</p>
                   </div>
                 </CardContent>
               </Card>
@@ -715,45 +734,9 @@ export default function Home() {
                     />
                   </div>
                   <div>
-                    <h3 className="text-xl font-bold">Dr. Muzahir Quazi</h3>
-                    <p className="text-sm text-muted-foreground">Ex-Jamia RCA Resident</p>
-                    <p className="mt-2 text-muted-foreground">Faculty: Geography & Disaster Management</p>
-                  </div>
-                </CardContent>
-              </Card>
-              <Card className="transition-all duration-300 hover:shadow-lg hover:-translate-y-1">
-                <CardContent className="p-6 flex flex-col items-center text-center space-y-4">
-                  <div className="relative h-40 w-40 overflow-hidden rounded-full border-4 border-background shadow-lg">
-                    <Image
-                      src="/Jitendra%20Patnaik.png"
-                      width={160}
-                      height={160}
-                      alt="Jitendra Patnaik"
-                      className="object-cover transition-transform duration-500 hover:scale-110"
-                    />
-                  </div>
-                  <div>
-                    <h3 className="text-xl font-bold">Jitendra Patnaik</h3>
-                    <p className="text-sm text-muted-foreground">Ex-Kalhana, IAS</p>
-                    <p className="mt-2 text-muted-foreground">Faculty: Governance & Indian Society</p>
-                  </div>
-                </CardContent>
-              </Card>
-              <Card className="transition-all duration-300 hover:shadow-lg hover:-translate-y-1">
-                <CardContent className="p-6 flex flex-col items-center text-center space-y-4">
-                  <div className="relative h-40 w-40 overflow-hidden rounded-full border-4 border-background shadow-lg">
-                    <Image
-                      src="/Faiz%20Ansari.png"
-                      width={160}
-                      height={160}
-                      alt="Faiz Ansari"
-                      className="object-cover transition-transform duration-500 hover:scale-110"
-                    />
-                  </div>
-                  <div>
-                    <h3 className="text-xl font-bold">Faiz Ansari</h3>
-                    <p className="text-sm text-muted-foreground">Ex-PW Only IAS, Ex-Jamia RCA Resident</p>
-                    <p className="mt-2 text-muted-foreground">Faculty: International Relations & Internal Security</p>
+                    <h3 className="text-xl font-bold">Govind Dass</h3>
+                    <p className="text-sm text-muted-foreground">Plutus IAS, GS World</p>
+                    <p className="mt-2 text-muted-foreground">Faculty: Science & Technology</p>
                   </div>
                 </CardContent>
               </Card>
