@@ -987,7 +987,7 @@ export default function Home() {
             </div>
             <div className="flex items-center gap-2">
               <MapPin className="h-4 w-4" />
-              <span className="text-sm">2nd Floor, Kalyan Singh Habitat Center, Aligarh</span>
+              <span className="text-sm">Diggi Rd, near I.G Hall, Mabood Nagar, Civil Lines, Aligarh, Uttar Pradesh 202002</span>
             </div>
           </div>
         </div>
