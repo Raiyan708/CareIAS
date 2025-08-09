@@ -796,7 +796,13 @@ export default function Home() {
                     <MapPin className="h-6 w-6" />
                     <div>
                       <h3 className="font-bold">Address</h3>
-                      <p className="text-muted-foreground">Diggi Rd, near I.G Hall, Mabood Nagar, Civil Lines, Aligarh, Uttar Pradesh 202002</p>
+                      <a
+                        href="https://maps.app.goo.gl/x9y1AWzmMXy1zShT6"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="text-muted-foreground hover:underline">
+                        Lal Diggi Rd, near I.G Hall, Mabood Nagar, Civil Lines, Aligarh, Uttar Pradesh 202002
+                      </a>
                     </div>
                   </div>
                   <div className="flex items-start space-x-4 p-3 rounded-lg transition-all duration-300 hover:bg-background">
