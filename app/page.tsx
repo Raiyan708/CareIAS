@@ -796,7 +796,7 @@ export default function Home() {
                     <MapPin className="h-6 w-6" />
                     <div>
                       <h3 className="font-bold">Address</h3>
-                      <p className="text-muted-foreground">2nd Floor, Kalyan Singh Habitat Center, Aligarh</p>
+                      <p className="text-muted-foreground">Diggi Rd, near I.G Hall, Mabood Nagar, Civil Lines, Aligarh, Uttar Pradesh 202002</p>
                     </div>
                   </div>
                   <div className="flex items-start space-x-4 p-3 rounded-lg transition-all duration-300 hover:bg-background">
@@ -810,7 +810,7 @@ export default function Home() {
                     <Instagram className="h-6 w-6" />
                     <div>
                       <h3 className="font-bold">Instagram</h3>
-                      <p className="text-muted-foreground">@care.ias</p>
+                      <p className="text-muted-foreground">@care_ias_aligarh</p>
                     </div>
                   </div>
                   <div className="flex items-start space-x-4 p-3 rounded-lg transition-all duration-300 hover:bg-background">
