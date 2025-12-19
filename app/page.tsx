@@ -102,11 +102,9 @@ export default function Home() {
                   </a>
                 </div>
                 <div className="flex flex-col gap-2 mt-2">
+                  
                   <Badge variant="outline" className="text-sm font-semibold border-2 px-3 py-1 w-fit">
-                    SPECIAL OFFER: 20% OFF for first 20 admissions!
-                  </Badge>
-                  <Badge variant="outline" className="text-sm font-semibold border-2 px-3 py-1 w-fit">
-                    Batches Begin From 10<sup>th</sup> June 2025
+                    Batches Ongoing
                   </Badge>
                 </div>
                 <div className="flex flex-wrap items-center gap-4 text-sm">
