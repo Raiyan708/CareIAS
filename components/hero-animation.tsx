@@ -36,7 +36,7 @@ export default function HeroAnimation() {
     <div ref={containerRef} className="relative h-[400px] w-full max-w-[500px]">
       <div className="absolute inset-0 flex items-center justify-center">
         <Image
-          src="/HomePage.JPG"
+          src="/careias.jpeg"
           width={500}
           height={400}
           alt="UPSC Success"
