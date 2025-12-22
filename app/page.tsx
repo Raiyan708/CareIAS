@@ -834,10 +834,10 @@ export default function Home() {
                         <h3 className="text-2xl font-bold">Enroll Now</h3>
                         <p className="text-muted-foreground">
                           Limited Seats Available!{" "}
-                          <span className="font-semibold">20% OFF for first 20 admissions!</span>
+                          
                         </p>
                         <p className="text-muted-foreground font-semibold">
-                          Batches Begin From 10<sup>th</sup> June 2025
+                          Batches Ongoing
                         </p>
                       </div>
                       <div className="space-y-4">
@@ -938,20 +938,20 @@ export default function Home() {
               Don't miss this opportunity to prepare for UPSC, UPPSC, BPSC, and APSC with Delhi-level expertise right
               here in Aligarh.
             </p>
-            <div className="mt-4 mb-8">
+            {/* <div className="mt-4 mb-8">
               <Badge
                 variant="outline"
                 className="text-lg font-semibold border-2 px-4 py-2 border-background text-background"
               >
                 SPECIAL OFFER: 20% OFF for first 20 admissions!
               </Badge>
-            </div>
+            </div> */}
             <div className="mt-4 mb-4">
               <Badge
                 variant="outline"
                 className="text-lg font-semibold border-2 px-4 py-2 border-background text-background"
               >
-                Batches Begin From 10<sup>th</sup> June 2025
+                Batches Ongoing
               </Badge>
             </div>
             <div className="mt-8 animate-bounce">
