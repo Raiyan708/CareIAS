@@ -33,18 +33,29 @@ export default function HeroAnimation() {
   }, [])
 
   return (
-    <div ref={containerRef} className="relative h-[400px] w-full max-w-[500px] mb-10">
-      <div className="absolute inset-0 flex items-center justify-center">
-        <Image
-          src="/careias.jpeg"
-          width={500}
-          height={400}
-          alt="UPSC Success"
-          className="rounded-lg shadow-lg transition-all duration-500 ease-in-out opacity-0 transform translate-y-5"
-          style={{ transitionDelay: "0ms" }}
-        />
-      </div>
-      {/* <div className="absolute top-[-20px] right-[-20px] w-[150px] h-[150px]">
+        <div ref={containerRef}className="relative w-full max-w-[500px] mx-auto mt-10 sm:mt-14">
+          <Image
+            src="/careias.jpeg"
+            width={500}
+            height={400}
+            alt="Care IAS Classroom"
+            className="w-full h-auto rounded-lg shadow-lg transition-all duration-500 ease-in-out opacity-0 transform translate-y-5"
+            style={{ transitionDelay: "0ms" }}
+            priority
+          />
+        </div>
+    // <div ref={containerRef} className="relative h-[400px] w-full max-w-[500px]">
+    //   <div className="absolute inset-0 flex items-center justify-center">
+    //     <Image
+    //       src="/careias.jpeg"
+    //       width={500}
+    //       height={400}
+    //       alt="UPSC Success"
+    //       className="rounded-lg shadow-lg transition-all duration-500 ease-in-out opacity-0 transform translate-y-5"
+    //       style={{ transitionDelay: "0ms" }}
+    //     />
+    //   </div>
+      /* <div className="absolute top-[-20px] right-[-20px] w-[150px] h-[150px]">
         <Image
           src="/placeholder.svg?height=150&width=150&text=Delhi+Experts"
           width={150}
@@ -63,7 +74,7 @@ export default function HeroAnimation() {
           className="rounded-full border-4 border-background shadow-lg transition-all duration-500 ease-in-out opacity-0 transform translate-y-5"
           style={{ transitionDelay: "400ms" }}
         />
-      </div> */}
-    </div>
-  )
+      </div> */
+    // </div>
+  );
 }
