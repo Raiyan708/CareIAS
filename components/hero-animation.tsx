@@ -33,7 +33,7 @@ export default function HeroAnimation() {
   }, [])
 
   return (
-    <div ref={containerRef} className="relative h-[400px] w-full max-w-[500px]">
+    <div ref={containerRef} className="relative h-[400px] w-full max-w-[500px] mb-10">
       <div className="absolute inset-0 flex items-center justify-center">
         <Image
           src="/careias.jpeg"
